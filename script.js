@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
             artist: "Lady Gaga y Bruno Mars",
             src: "song.mp3",
             lyrics: [
-  { "time": 12, "line": "(Ooh...)" },
+  { "time": 4, "line": "(Ooh...)" },
   { "time": 13, "line": "Recién desperté de un sueño" },
   { "time": 16, "line": "Donde tú y yo nos dijimos adiós" },
   { "time": 21, "line": "Y no sé qué signifique eso" },
