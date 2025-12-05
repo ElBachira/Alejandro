@@ -82,8 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // =================================================================
     const songs = [
         {
-            title: "Golden Brown",
-            artist: "The Stranglers",
+            title: "Die With A Smile",
+            artist: "Lady Gaga y Bruno Mars",
             src: "song.mp3",
             lyrics: [
   { "time": 12, "line": "(Ooh...)" },
